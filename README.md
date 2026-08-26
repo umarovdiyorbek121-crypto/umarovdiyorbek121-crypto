@@ -1,4 +1,14 @@
+<h1 align="center">Salom, men bilan tanishing! 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Arduino+%26+ESP32+bilan+ishlayman;Python+va+AI+o'rganaman;Canva+%26+Figma+dizaynerman;Robot+Akademiyasi+talabasiman" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
+
+---
 
 ### 🔭 Hozir nima ustida ishlayapman
 - Arduino va ESP32 asosida qurilmalar (IoT loyihalar) ustida ishlayapman
