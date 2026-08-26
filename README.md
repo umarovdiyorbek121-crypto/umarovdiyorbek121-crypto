@@ -1,50 +1,50 @@
-# 🚀 Salom, men [Ismingiz]! 👋
+
+
+### 🔭 Hozir nima ustida ishlayapman
+- Arduino va ESP32 asosida qurilmalar (IoT loyihalar) ustida ishlayapman
+
+### 🌱 Nimalarni o'rganyapman
+- Python dasturlash tili va sun'iy intellekt (AI)
+
+### 👯 Kimlar bilan hamkorlik qilishni xohlayman
+- Robototexnika va IoT loyihalari bo'yicha hamkorlar bilan
+
+### 🤔 Nimada yordam kerak
+- Python va AI loyihalarini rivojlantirishda
+
+### 💬 Mendan so'rashingiz mumkin
+- Arduino, ESP32, Canva, Figma va Python haqida
+
+### 📫 Men bilan bog'lanish
+- GitHub orqali xabar yozing (profil pastida havolalar qo'shishingiz mumkin)
+
+### ⚡ Qiziqarli fakt
+- Men Robot Akademiyasida o'qiyman va texnika bilan dizaynni birlashtirishni yaxshi ko'raman
+
+---
+
+### 🛠️ Texnologiyalar va vositalar
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
 
 <p align="center">
-  <b>Robbit Akademiyasi Oʻquvchisi</b> | <b>IoT & Hardware Enthusiast</b> | <b>Python AI Developer</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-brightgreen?style=for-the-badge&logo=rocket" />
-  <img src="https://img.shields.io/badge/Focus-Robotics_%26_AI-blue?style=for-the-badge&logo=cpu" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" width="60%" />
 </p>
 
----
-
-### 🌟 Men Haqimda (About Me)
-
-- 🏫 **Ta'lim:** Hozirda **Robbit Akademiyasida** robototexnika, mikrokontrollerlar va dasturlash yoʻnalishida tahsil olmoqdaman.
-- 🔭 **Hozirgi loyihalarim:** Arduino va ESP32 mikrokontrollerlari bazasida Aqlli Tizimlar (IoT) va Python AI integratsiyalari ustida ishlayapman.
-- 🌱 **Faol oʻrganyapman:** 
-  - **Hardware:** Arduino UNO/NANO, ESP32, sensorlar, drayverlar va sxemotexnika.
-  - **Software:** Python (Sun'iy intellekt va algoritmik mantiq).
-  - **Design:** Figma va Canva orqali prototiplash hamda vizual dizayn yaratish.
-- 👯 **Hamkorlik (Collaboration):** Robototexnika, IoT va Python loyihalarida birgalikda ishlashga hamda tajriba almashishga tayyorman.
-- 🤔 **Maqsadim:** Hardware (qurilmalar) va AI (Sun'iy intellekt) imkoniyatlarini birlashtirib, real muammolarga innovatsion yechimlar yaratish.
-- 💬 **Muloqot uchun mavzular:** Arduino sxemalari, ESP32 simsiz modullari, Python dasturlash, Figma dizaynlari.
-- 📫 **Bogʻlanish:** `[Telegram: @username]` | `[Email: example@gmail.com]`
-- ⚡ **Qiziqarli fakt:** Men nafaqat qurilmalarning apparat (hardware) va kod (software) qismini yozaman, balki uning foydalanuvchi interfeysi hamda grafik dizaynini ham oʻzim noldan loyihalashtiraman!
-
----
-
-### 🛠️ Texnologik Koʻnikmalarim (Skills)
-
-| Yoʻnalish | Texnologiyalar & Asboblar |
-| :--- | :--- |
-| **Robotics & IoT** | `Arduino` `ESP32` `C++` `Sensors & Actuators` `Wokwi` `Tinkercad` |
-| **Software & AI** | `Python` `Object-Oriented Programming (OOP)` `AI Logic` |
-| **Design & Prototyping** | `Figma` `Canva` `UI/UX` |
-
----
-
-### 📊 Mening Yutuqlarim va Maqsadlarim
-
-- 📱 Apparat va mobil/veb interfeyslarni oʻzaro bogʻlash.
-- 🤖 Mikrokontrollerlarga Sun'iy Intellekt elementlarini tatbiq etish.
-- 📐 Aniq va tartibli loyiha hujjatlarini shakllantirish.
-
----
-
 <p align="center">
-  <i>"Kod yozish va apparat qismini yaratish — mening sevimli mashgʻulotim!"</i> ⚙️💡
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=flat" alt="profile views" />
 </p>
